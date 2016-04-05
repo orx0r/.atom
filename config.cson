@@ -3,6 +3,10 @@
   "autocomplete-go": {}
   core:
     automaticallyUpdate: false
+    themes: [
+      "one-dark-ui"
+      "monokai-seti"
+    ]
   editor:
     invisibles: {}
   "exception-reporting":
