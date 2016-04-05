@@ -1,0 +1,13 @@
+"*":
+  Termrk: {}
+  "autocomplete-go": {}
+  core:
+    automaticallyUpdate: false
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "ca8dc9a3-6dc3-b343-76fc-3999b67ad444"
+  fonts:
+    fontFamily: "CamingoCode"
+  welcome:
+    showOnStartup: false
