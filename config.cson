@@ -3,6 +3,9 @@
   "autocomplete-go": {}
   core:
     automaticallyUpdate: false
+    disabledPackages: [
+      "Termrk"
+    ]
     themes: [
       "one-dark-ui"
       "monokai-seti"
